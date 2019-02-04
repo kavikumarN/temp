@@ -1,0 +1,3 @@
+###########
+4-2-18
+install zmq on ubuntu  ::::: http://www.ehadoopinfo.com/2017/07/installing-zeromq-in-ubuntu-linux-mint.html
