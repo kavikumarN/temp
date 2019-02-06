@@ -5,3 +5,4 @@ complie module:::: https://adndevblog.typepad.com/cloud_and_mobile/2016/07/boost
 ###########
 6-2-19
 https://developers.google.com/web/updates/2018/03/emscripting-a-c-library  //link an external c library to emscripten
+https://www.slothparadise.com/c-libraries-linking-compiling/    /c-libraries-linking-compiling/
