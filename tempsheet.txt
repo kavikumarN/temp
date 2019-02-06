@@ -2,3 +2,6 @@
 4-2-18
 install zmq on ubuntu  ::::: http://www.ehadoopinfo.com/2017/07/installing-zeromq-in-ubuntu-linux-mint.html
 complie module:::: https://adndevblog.typepad.com/cloud_and_mobile/2016/07/boost-your-web-application-with-c-emscripten-asmjs-web-assembly-.html
+###########
+6-2-19
+https://developers.google.com/web/updates/2018/03/emscripting-a-c-library  //link an external c library to emscripten
