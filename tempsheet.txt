@@ -10,3 +10,4 @@ https://www.slothparadise.com/c-libraries-linking-compiling/    /c-libraries-lin
 9/2/19
 embind stuff:: https://adamrehn.com/articles/creating-javascript-bindings-for-c-cxx-libraries-with-emscripten/
 zmqpp :::: ******* https://github.com/zeromq/zmqpp/blob/develop/examples/simple_server.cpp
+Emmake patch::::::::::::::  https://github.com/emscripten-core/emscripten/issues/6185
