@@ -11,3 +11,7 @@ https://www.slothparadise.com/c-libraries-linking-compiling/    /c-libraries-lin
 embind stuff:: https://adamrehn.com/articles/creating-javascript-bindings-for-c-cxx-libraries-with-emscripten/
 zmqpp :::: ******* https://github.com/zeromq/zmqpp/blob/develop/examples/simple_server.cpp
 Emmake patch::::::::::::::  https://github.com/emscripten-core/emscripten/issues/6185
+########
+buttons on wasm ::: https://www.youtube.com/watch?v=RL6QBno-Mm0
+
+##############################
