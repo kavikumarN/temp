@@ -16,3 +16,4 @@ buttons on wasm ::: https://www.youtube.com/watch?v=RL6QBno-Mm0
 
 ##############################
 ****zmq on visual studio 2017 **** ::https://joshuaburkholder.com/wordpress/2018/05/25/build-and-static-link-zeromq-on-windows/
+**********zmq static libarary: : https://hanixdiy.blogspot.com/2018/02/compile-zeromq-as-static-library.html
