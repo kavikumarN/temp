@@ -15,3 +15,4 @@ Emmake patch::::::::::::::  https://github.com/emscripten-core/emscripten/issues
 buttons on wasm ::: https://www.youtube.com/watch?v=RL6QBno-Mm0
 
 ##############################
+****zmq on visual studio 2017 **** ::https://joshuaburkholder.com/wordpress/2018/05/25/build-and-static-link-zeromq-on-windows/
