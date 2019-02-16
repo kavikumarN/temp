@@ -25,3 +25,6 @@ complete tut on wasm:
  ######################
  native libraries on c: 
  https://willowtreeapps.com/ideas/how-to-use-native-libraries-on-node-js-with-emscripten
+ 
+ lookout ::
+ https://github.com/kiwix/kiwix-js/issues/219
