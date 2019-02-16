@@ -23,3 +23,5 @@ video wasm vstudio 2017 https://www.reddit.com/r/programming/comments/6mijq5/web
 complete tut on wasm:
  https://medium.com/@tdeniffel/pragmatic-compiling-from-c-to-webassembly-a-guide-a496cc5954b8
  ######################
+ native libraries on c: 
+ https://willowtreeapps.com/ideas/how-to-use-native-libraries-on-node-js-with-emscripten
