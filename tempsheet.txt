@@ -28,3 +28,6 @@ complete tut on wasm:
  
  lookout ::
  https://github.com/kiwix/kiwix-js/issues/219
+ 
+ #################
+ QT ZMQ:: https://github.com/jonnydee/nzmqt
