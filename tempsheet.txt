@@ -33,3 +33,4 @@ complete tut on wasm:
  QT ZMQ:: https://github.com/jonnydee/nzmqt
  
  https://blog.qt.io/blog/2018/11/19/getting-started-qt-webassembly/
+ QT instructions: https://github.com/lpotter/qt5-emscripten/issues/1
