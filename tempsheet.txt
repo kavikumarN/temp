@@ -36,3 +36,6 @@ complete tut on wasm:
  QT instructions: https://github.com/lpotter/qt5-emscripten/issues/1
 #####################
 complete riot workshop:::  https://gist.github.com/attacus/cb5c8a53380ca755b10a5b37a636a0b9
+####################
+hostname ctpldc01 domain ctpl.local root: pwd: root matrix: Ctpl$456
+##################
