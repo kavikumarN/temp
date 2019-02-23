@@ -34,3 +34,5 @@ complete tut on wasm:
  
  https://blog.qt.io/blog/2018/11/19/getting-started-qt-webassembly/
  QT instructions: https://github.com/lpotter/qt5-emscripten/issues/1
+#####################
+complete riot workshop:::  https://gist.github.com/attacus/cb5c8a53380ca755b10a5b37a636a0b9
