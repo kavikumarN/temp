@@ -44,6 +44,5 @@ https://stackoverflow.com/questions/41626056/web-assembly-using-emscripten-with-
 https://brightdigit.com/blog/2014/04/01/hello-emscripten/
 c lib on emscripten.
 ##################
-
-
+https://github.com/emscripten-core/emscripten/issues/7547
 
