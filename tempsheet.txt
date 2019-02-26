@@ -41,6 +41,7 @@ worrking: https://www.howtoforge.com/tutorial/how-to-install-matrix-synapse-on-u
 hostname ctpldc01 domain ctpl.local root: pwd: root matrix: Ctpl$456
 ##################
 https://stackoverflow.com/questions/41626056/web-assembly-using-emscripten-with-c-library
+https://brightdigit.com/blog/2014/04/01/hello-emscripten/
 c lib on emscripten.
 ##################
 
