@@ -45,4 +45,5 @@ https://brightdigit.com/blog/2014/04/01/hello-emscripten/
 c lib on emscripten.
 ##################
 https://github.com/emscripten-core/emscripten/issues/7547
+*****  http://qtandeverything.blogspot.com/ 
 
