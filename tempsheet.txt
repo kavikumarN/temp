@@ -47,3 +47,5 @@ c lib on emscripten.
 https://github.com/emscripten-core/emscripten/issues/7547
 *****  http://qtandeverything.blogspot.com/ 
 
+********************
+https://livebook.manning.com/#!/book/webassembly-in-action/chapter-3/v-4/120 wasm book
