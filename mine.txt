@@ -1,1 +1,0 @@
-https://dotnet.microsoft.com/download/thank-you/net472-developer-pack  
